@@ -1,1 +1,1 @@
-# my-blog
+# App demo.
